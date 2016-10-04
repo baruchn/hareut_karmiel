@@ -1,0 +1,26 @@
+{
+    "applications": {
+        "_default": {
+            "link": "b.notified"
+        }, 
+        "b.notified": {
+            "applicationId": "1ua166IxjpEE4BMNsWxTvPiwiTYxNwwwX6ANG0bg", 
+            "masterKey": "7gK6twkNj0S8zCLgyKJHrsBRinkSsUTBVx25FcNN"
+        }, 
+        "results": {
+            "applicationId": {
+                "appName": "bnotified.hareutkarmiel", 
+                "applicationId": "1ua166IxjpEE4BMNsWxTvPiwiTYxNwwwX6ANG0bg", 
+                "masterKey": "7gK6twkNj0S8zCLgyKJHrsBRinkSsUTBVx25FcNN"
+            }, 
+            "masterKey": {
+                "appName": "bnotified.demo", 
+                "applicationId": "1cch8PcCjyXkutM64AEU7bB72ssn3tFV4dyg8tLM", 
+                "masterKey": "n7g23k4gAqTg7pTULIjDVl0ctoWazXuKpyjf9Ari"
+            }
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.5"
+    }
+}

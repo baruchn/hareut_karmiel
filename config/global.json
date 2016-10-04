@@ -1,0 +1,15 @@
+{
+  "global": {
+        "parseVersion": "1.3.5"
+    },
+    "applications": {
+        "_default": {
+            "link": "b.notified"
+        }, 
+        "b.notified": {
+            "applicationId": "1ua166IxjpEE4BMNsWxTvPiwiTYxNwwwX6ANG0bg", 
+            "masterKey": "7gK6twkNj0S8zCLgyKJHrsBRinkSsUTBVx25FcNN"
+       }
+    }
+    
+}
